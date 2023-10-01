@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912690697300",
+    "project_id": "cam-tube",
+    "storage_bucket": "cam-tube.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912690697300:android:5bb1b6a2d591e8e42a89c1",
+        "android_client_info": {
+          "package_name": "com.example.cam_tube"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD464tigJ_yP8t6ZVUvXNxeS9B3bxy2lY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

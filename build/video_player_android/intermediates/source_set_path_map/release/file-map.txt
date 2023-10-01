@@ -1,0 +1,14 @@
+io.flutter.plugins.videoplayer.video_player_android-jetified-annotation-experimental-1.1.0-0 /Users/lalitchoudhary/.gradle/caches/transforms-3/236a2aa1ba9650ad3570ee4f6e092af9/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.videoplayer.video_player_android-lifecycle-runtime-2.3.1-1 /Users/lalitchoudhary/.gradle/caches/transforms-3/2d5e86ea38c0647be9a4ac1b7ef80a36/transformed/lifecycle-runtime-2.3.1/res
+io.flutter.plugins.videoplayer.video_player_android-core-1.7.0-2 /Users/lalitchoudhary/.gradle/caches/transforms-3/4486accd90a0a74b56a9aa328a25c4ff/transformed/core-1.7.0/res
+io.flutter.plugins.videoplayer.video_player_android-jetified-window-1.0.0-beta04-3 /Users/lalitchoudhary/.gradle/caches/transforms-3/87e7a672c1adbb6e49cd403bec5e2efa/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.videoplayer.video_player_android-jetified-window-java-1.0.0-beta04-4 /Users/lalitchoudhary/.gradle/caches/transforms-3/cb672e83b2d5863a1d48ebe8bbfc24cd/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.videoplayer.video_player_android-jetified-exoplayer-core-2.18.7-5 /Users/lalitchoudhary/.gradle/caches/transforms-3/d6b3c95817e09d7b068ea55f8cfacf70/transformed/jetified-exoplayer-core-2.18.7/res
+io.flutter.plugins.videoplayer.video_player_android-main-6 /Users/lalitchoudhary/.pub-cache/hosted/pub.dev/video_player_android-2.4.10/android/src/main/res
+io.flutter.plugins.videoplayer.video_player_android-release-7 /Users/lalitchoudhary/.pub-cache/hosted/pub.dev/video_player_android-2.4.10/android/src/release/res
+io.flutter.plugins.videoplayer.video_player_android-pngs-8 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/video_player_android/generated/res/pngs/release
+io.flutter.plugins.videoplayer.video_player_android-resValues-9 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/video_player_android/generated/res/resValues/release
+io.flutter.plugins.videoplayer.video_player_android-rs-10 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/video_player_android/generated/res/rs/release
+io.flutter.plugins.videoplayer.video_player_android-mergeReleaseResources-11 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/video_player_android/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.videoplayer.video_player_android-mergeReleaseResources-12 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/video_player_android/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.videoplayer.video_player_android-merged_res-13 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/video_player_android/intermediates/merged_res/release
