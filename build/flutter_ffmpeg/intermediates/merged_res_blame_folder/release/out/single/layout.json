@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.arthenica.flutter.ffmpeg.flutter_ffmpeg-merged_res-10:/layout/notification_template_part_time.xml",
+        "source": "com.arthenica.flutter.ffmpeg.flutter_ffmpeg-core-1.6.0-3:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.arthenica.flutter.ffmpeg.flutter_ffmpeg-merged_res-10:/layout/custom_dialog.xml",
+        "source": "com.arthenica.flutter.ffmpeg.flutter_ffmpeg-core-1.6.0-3:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.arthenica.flutter.ffmpeg.flutter_ffmpeg-merged_res-10:/layout/notification_template_part_chronometer.xml",
+        "source": "com.arthenica.flutter.ffmpeg.flutter_ffmpeg-core-1.6.0-3:/layout/notification_template_part_chronometer.xml"
+    }
+]

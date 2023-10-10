@@ -1,14 +1,25 @@
-import 'dart:ffi';
 
-import 'package:cam_tube/main.dart';
+import 'package:awesome_snackbar_content/awesome_snackbar_content.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 
+import '../constants.dart';
+import 'Components/otpTextField.dart';
+
 class OtpScreen extends StatefulWidget {
+  final otpController = TextEditingController();
+  final auth = FirebaseAuth.instance;
+  bool loading = false;
+  bool otpIsValid = true;
+  void verifyphone;
   String verificationID;
   int? token;
-  OtpScreen({super.key, required this.verificationID, required this.token});
+  OtpScreen(
+      {super.key,
+      required this.verificationID,
+      required this.token,
+      required this.verifyphone});
 
   @override
   State<OtpScreen> createState() => _OtpScreenState();
@@ -17,42 +28,22 @@ class OtpScreen extends StatefulWidget {
 class _OtpScreenState extends State<OtpScreen> {
 
 
-
-
-
-// ...
-
 // Create a Firestore collection for the user
-Future<void> createFirestoreCollectionForUser() async {
-  final User? user = FirebaseAuth.instance.currentUser;
+  Future<void> createFirestoreCollectionForUser() async {
+    final User? user = FirebaseAuth.instance.currentUser;
 
-  if (user != null) {
-    final CollectionReference userVideosCollection =
-        FirebaseFirestore.instance.collection('users/${user.uid}/videos');
-    // You can also set up security rules in Firebase to ensure privacy of data.
+    if (user != null) {
+      final CollectionReference userVideosCollection =
+          FirebaseFirestore.instance.collection('users/${user.uid}/videos');
+      
+    }
   }
-}
 
-
-
-
-  final otpController = TextEditingController();
-  final auth = FirebaseAuth.instance;
-  bool loading = false;
   @override
   Widget build(BuildContext context) {
     return Material(
       child: Container(
-        decoration: const BoxDecoration(
-          gradient: LinearGradient(
-            colors: [
-              Color.fromARGB(255, 142, 33, 243),
-              Color.fromARGB(255, 76, 130, 175)
-            ],
-            begin: Alignment.topLeft,
-            end: Alignment.bottomRight,
-          ),
-        ),
+        decoration: const BoxDecoration(gradient: gradientColor),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           crossAxisAlignment: CrossAxisAlignment.center,
@@ -64,20 +55,13 @@ Future<void> createFirestoreCollectionForUser() async {
             )),
             Padding(
               padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 9),
-              child: TextFormField(
-                controller: otpController,
-                  keyboardType: TextInputType.phone,
-                  decoration: const InputDecoration(
-                      hintText: "Enter OTP Number",
-                      filled: true,
-                      fillColor: Colors.white,
-                      border: OutlineInputBorder(
-                          borderRadius: BorderRadius.horizontal(
-                              left: Radius.circular(10),
-                              right: Radius.circular(10)),
-                          borderSide:
-                              BorderSide(color: Colors.white, width: 1)))),
+              child: otpTextField(widget: widget),
             ),
+            ElevatedButton(
+                onPressed: () {
+                  widget.verifyphone;
+                },
+                child: const Text("Did not get otp, resend?")),
             ElevatedButton(
                 style: ButtonStyle(
                   shape: MaterialStateProperty.all<RoundedRectangleBorder>(
@@ -89,27 +73,39 @@ Future<void> createFirestoreCollectionForUser() async {
                 ),
                 onPressed: () async {
                   setState(() {
-                    loading = true;
+                    widget.loading = true;
                   });
                   final credential = PhoneAuthProvider.credential(
                       verificationId: widget.verificationID,
-                      smsCode: otpController.text);
+                      smsCode: widget.otpController.text);
                   try {
-                    await auth.signInWithCredential(credential);
-                    Navigator.push(
-                        context,
-                        MaterialPageRoute(
-                            builder: (context) => MyApp()));
+                    await widget.auth.signInWithCredential(credential);
+                    // ignore: use_build_context_synchronously
+                    Navigator.pushNamedAndRemoveUntil(
+                        context, "videosScreen", (route) => false);
                   } catch (e) {
-                    loading = false;
-                    print(e.toString());
+                    setState(() {
+                      AwesomeSnackbarContent(
+                          title: "Error",
+                          message: "Verification Failed" + e.toString(),
+                          contentType: ContentType.failure);
+
+                      widget.otpIsValid = false;
+                      widget.loading = false;
+                    });
                   }
                   await createFirestoreCollectionForUser();
                 },
-                child: loading == true ? const CircularProgressIndicator(color: Colors.white,): const Text("Login"))
+                child: widget.loading == true
+                    ? const CircularProgressIndicator(
+                        color: Colors.grey,
+                      )
+                    : const Text("Get Started"))
           ],
         ),
       ),
     );
   }
 }
+
+

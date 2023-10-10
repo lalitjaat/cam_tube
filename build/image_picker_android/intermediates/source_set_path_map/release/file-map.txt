@@ -1,0 +1,24 @@
+io.flutter.plugins.imagepicker.image_picker_android-core-runtime-2.2.0-0 /Users/lalitchoudhary/.gradle/caches/transforms-3/01f2dddcb7a8151924563b4991767632/transformed/core-runtime-2.2.0/res
+io.flutter.plugins.imagepicker.image_picker_android-lifecycle-viewmodel-2.6.1-1 /Users/lalitchoudhary/.gradle/caches/transforms-3/0bd060c812c901f1ecb76d4183283632/transformed/lifecycle-viewmodel-2.6.1/res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-startup-runtime-1.1.1-2 /Users/lalitchoudhary/.gradle/caches/transforms-3/1ab824a77f0719a618958c2dfbf0ccd6/transformed/jetified-startup-runtime-1.1.1/res
+io.flutter.plugins.imagepicker.image_picker_android-lifecycle-livedata-core-2.6.1-3 /Users/lalitchoudhary/.gradle/caches/transforms-3/4a06ff554bd4e6287463af0826aec6c7/transformed/lifecycle-livedata-core-2.6.1/res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-core-ktx-1.10.1-4 /Users/lalitchoudhary/.gradle/caches/transforms-3/576139089f4fa22af392754cbc4ee021/transformed/jetified-core-ktx-1.10.1/res
+io.flutter.plugins.imagepicker.image_picker_android-core-1.10.1-5 /Users/lalitchoudhary/.gradle/caches/transforms-3/709fae998f610fa7de35f2d090a45ecc/transformed/core-1.10.1/res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-window-1.0.0-beta04-6 /Users/lalitchoudhary/.gradle/caches/transforms-3/87e7a672c1adbb6e49cd403bec5e2efa/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-savedstate-1.2.1-7 /Users/lalitchoudhary/.gradle/caches/transforms-3/92b5a4943b683338dd0f4ee8433cc9de/transformed/jetified-savedstate-1.2.1/res
+io.flutter.plugins.imagepicker.image_picker_android-lifecycle-livedata-2.6.1-8 /Users/lalitchoudhary/.gradle/caches/transforms-3/9a8b84f944184bdca955c6fa8b93b016/transformed/lifecycle-livedata-2.6.1/res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-lifecycle-viewmodel-savedstate-2.6.1-9 /Users/lalitchoudhary/.gradle/caches/transforms-3/9e8e894b13b8a1e459bd8fe98ddda936/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.1/res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-annotation-experimental-1.3.0-10 /Users/lalitchoudhary/.gradle/caches/transforms-3/9f1eb67318bd6bbab6c3cb7e7da7c0bb/transformed/jetified-annotation-experimental-1.3.0/res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-window-java-1.0.0-beta04-11 /Users/lalitchoudhary/.gradle/caches/transforms-3/cb672e83b2d5863a1d48ebe8bbfc24cd/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-profileinstaller-1.3.0-12 /Users/lalitchoudhary/.gradle/caches/transforms-3/d4c3eeb909e999adad372b784cf17365/transformed/jetified-profileinstaller-1.3.0/res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-activity-1.7.2-13 /Users/lalitchoudhary/.gradle/caches/transforms-3/f22a4558394fdf66c3f0cc9d6a0defd4/transformed/jetified-activity-1.7.2/res
+io.flutter.plugins.imagepicker.image_picker_android-lifecycle-runtime-2.6.1-14 /Users/lalitchoudhary/.gradle/caches/transforms-3/f99742f5007e67e24e7d8b2dac5cb8f0/transformed/lifecycle-runtime-2.6.1/res
+io.flutter.plugins.imagepicker.image_picker_android-main-15 /Users/lalitchoudhary/.pub-cache/hosted/pub.dev/image_picker_android-0.8.8+1/android/src/main/res
+io.flutter.plugins.imagepicker.image_picker_android-release-16 /Users/lalitchoudhary/.pub-cache/hosted/pub.dev/image_picker_android-0.8.8+1/android/src/release/res
+io.flutter.plugins.imagepicker.image_picker_android-packaged_res-17 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/flutter_plugin_android_lifecycle/intermediates/packaged_res/release
+io.flutter.plugins.imagepicker.image_picker_android-pngs-18 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/image_picker_android/generated/res/pngs/release
+io.flutter.plugins.imagepicker.image_picker_android-resValues-19 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/image_picker_android/generated/res/resValues/release
+io.flutter.plugins.imagepicker.image_picker_android-rs-20 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/image_picker_android/generated/res/rs/release
+io.flutter.plugins.imagepicker.image_picker_android-mergeReleaseResources-21 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/image_picker_android/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.imagepicker.image_picker_android-mergeReleaseResources-22 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/image_picker_android/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.imagepicker.image_picker_android-merged_res-23 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/image_picker_android/intermediates/merged_res/release

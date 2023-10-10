@@ -1,27 +1,49 @@
-com.example.cam_tube.app-browser-1.4.0-0 /Users/lalitchoudhary/.gradle/caches/transforms-3/0d5f64f59531fc3b6e9f1b7ed9e010ec/transformed/browser-1.4.0/res
-com.example.cam_tube.app-jetified-play-services-basement-18.1.0-1 /Users/lalitchoudhary/.gradle/caches/transforms-3/1d54794209dc57d94745c30fdda1f475/transformed/jetified-play-services-basement-18.1.0/res
-com.example.cam_tube.app-jetified-annotation-experimental-1.1.0-2 /Users/lalitchoudhary/.gradle/caches/transforms-3/236a2aa1ba9650ad3570ee4f6e092af9/transformed/jetified-annotation-experimental-1.1.0/res
-com.example.cam_tube.app-lifecycle-runtime-2.3.1-3 /Users/lalitchoudhary/.gradle/caches/transforms-3/2d5e86ea38c0647be9a4ac1b7ef80a36/transformed/lifecycle-runtime-2.3.1/res
-com.example.cam_tube.app-core-1.7.0-4 /Users/lalitchoudhary/.gradle/caches/transforms-3/4486accd90a0a74b56a9aa328a25c4ff/transformed/core-1.7.0/res
-com.example.cam_tube.app-jetified-play-services-base-18.0.1-5 /Users/lalitchoudhary/.gradle/caches/transforms-3/4f37e81d0bf4d62d67f1b1d3a1b8f430/transformed/jetified-play-services-base-18.0.1/res
-com.example.cam_tube.app-jetified-window-1.0.0-beta04-6 /Users/lalitchoudhary/.gradle/caches/transforms-3/87e7a672c1adbb6e49cd403bec5e2efa/transformed/jetified-window-1.0.0-beta04/res
-com.example.cam_tube.app-jetified-firebase-common-20.3.3-7 /Users/lalitchoudhary/.gradle/caches/transforms-3/b6c2c11d6b317906479b8af5830b89fa/transformed/jetified-firebase-common-20.3.3/res
-com.example.cam_tube.app-jetified-window-java-1.0.0-beta04-8 /Users/lalitchoudhary/.gradle/caches/transforms-3/cb672e83b2d5863a1d48ebe8bbfc24cd/transformed/jetified-window-java-1.0.0-beta04/res
-com.example.cam_tube.app-jetified-exoplayer-core-2.18.7-9 /Users/lalitchoudhary/.gradle/caches/transforms-3/d6b3c95817e09d7b068ea55f8cfacf70/transformed/jetified-exoplayer-core-2.18.7/res
-com.example.cam_tube.app-main-10 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/android/app/src/main/res
-com.example.cam_tube.app-release-11 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/android/app/src/release/res
-com.example.cam_tube.app-google-services-12 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/app/generated/res/google-services/release
-com.example.cam_tube.app-pngs-13 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/app/generated/res/pngs/release
-com.example.cam_tube.app-resValues-14 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/app/generated/res/resValues/release
-com.example.cam_tube.app-rs-15 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/app/generated/res/rs/release
-com.example.cam_tube.app-mergeReleaseResources-16 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/app/intermediates/incremental/release/mergeReleaseResources/merged.dir
-com.example.cam_tube.app-mergeReleaseResources-17 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/app/intermediates/incremental/release/mergeReleaseResources/stripped.dir
-com.example.cam_tube.app-merged_res-18 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/app/intermediates/merged_res/release
-com.example.cam_tube.app-packaged_res-19 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/camera_android/intermediates/packaged_res/release
-com.example.cam_tube.app-packaged_res-20 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/firebase_auth/intermediates/packaged_res/release
-com.example.cam_tube.app-packaged_res-21 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/firebase_core/intermediates/packaged_res/release
-com.example.cam_tube.app-packaged_res-22 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/flutter_plugin_android_lifecycle/intermediates/packaged_res/release
-com.example.cam_tube.app-packaged_res-23 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/path_provider_android/intermediates/packaged_res/release
-com.example.cam_tube.app-packaged_res-24 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/permission_handler_android/intermediates/packaged_res/release
-com.example.cam_tube.app-packaged_res-25 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/shared_preferences_android/intermediates/packaged_res/release
-com.example.cam_tube.app-packaged_res-26 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/video_player_android/intermediates/packaged_res/release
+com.example.cam_tube.app-core-runtime-2.2.0-0 /Users/lalitchoudhary/.gradle/caches/transforms-3/01f2dddcb7a8151924563b4991767632/transformed/core-runtime-2.2.0/res
+com.example.cam_tube.app-lifecycle-viewmodel-2.6.1-1 /Users/lalitchoudhary/.gradle/caches/transforms-3/0bd060c812c901f1ecb76d4183283632/transformed/lifecycle-viewmodel-2.6.1/res
+com.example.cam_tube.app-browser-1.4.0-2 /Users/lalitchoudhary/.gradle/caches/transforms-3/0d5f64f59531fc3b6e9f1b7ed9e010ec/transformed/browser-1.4.0/res
+com.example.cam_tube.app-jetified-startup-runtime-1.1.1-3 /Users/lalitchoudhary/.gradle/caches/transforms-3/1ab824a77f0719a618958c2dfbf0ccd6/transformed/jetified-startup-runtime-1.1.1/res
+com.example.cam_tube.app-jetified-play-services-basement-18.1.0-4 /Users/lalitchoudhary/.gradle/caches/transforms-3/1d54794209dc57d94745c30fdda1f475/transformed/jetified-play-services-basement-18.1.0/res
+com.example.cam_tube.app-lifecycle-livedata-core-2.6.1-5 /Users/lalitchoudhary/.gradle/caches/transforms-3/4a06ff554bd4e6287463af0826aec6c7/transformed/lifecycle-livedata-core-2.6.1/res
+com.example.cam_tube.app-jetified-core-ktx-1.10.1-6 /Users/lalitchoudhary/.gradle/caches/transforms-3/576139089f4fa22af392754cbc4ee021/transformed/jetified-core-ktx-1.10.1/res
+com.example.cam_tube.app-core-1.10.1-7 /Users/lalitchoudhary/.gradle/caches/transforms-3/709fae998f610fa7de35f2d090a45ecc/transformed/core-1.10.1/res
+com.example.cam_tube.app-jetified-play-services-base-18.1.0-8 /Users/lalitchoudhary/.gradle/caches/transforms-3/7990174031812ba05b2e015d9b7c91ba/transformed/jetified-play-services-base-18.1.0/res
+com.example.cam_tube.app-jetified-window-1.0.0-beta04-9 /Users/lalitchoudhary/.gradle/caches/transforms-3/87e7a672c1adbb6e49cd403bec5e2efa/transformed/jetified-window-1.0.0-beta04/res
+com.example.cam_tube.app-jetified-savedstate-1.2.1-10 /Users/lalitchoudhary/.gradle/caches/transforms-3/92b5a4943b683338dd0f4ee8433cc9de/transformed/jetified-savedstate-1.2.1/res
+com.example.cam_tube.app-lifecycle-livedata-2.6.1-11 /Users/lalitchoudhary/.gradle/caches/transforms-3/9a8b84f944184bdca955c6fa8b93b016/transformed/lifecycle-livedata-2.6.1/res
+com.example.cam_tube.app-jetified-lifecycle-viewmodel-savedstate-2.6.1-12 /Users/lalitchoudhary/.gradle/caches/transforms-3/9e8e894b13b8a1e459bd8fe98ddda936/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.1/res
+com.example.cam_tube.app-jetified-annotation-experimental-1.3.0-13 /Users/lalitchoudhary/.gradle/caches/transforms-3/9f1eb67318bd6bbab6c3cb7e7da7c0bb/transformed/jetified-annotation-experimental-1.3.0/res
+com.example.cam_tube.app-jetified-firebase-common-20.3.3-14 /Users/lalitchoudhary/.gradle/caches/transforms-3/b6c2c11d6b317906479b8af5830b89fa/transformed/jetified-firebase-common-20.3.3/res
+com.example.cam_tube.app-jetified-window-java-1.0.0-beta04-15 /Users/lalitchoudhary/.gradle/caches/transforms-3/cb672e83b2d5863a1d48ebe8bbfc24cd/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.cam_tube.app-jetified-profileinstaller-1.3.0-16 /Users/lalitchoudhary/.gradle/caches/transforms-3/d4c3eeb909e999adad372b784cf17365/transformed/jetified-profileinstaller-1.3.0/res
+com.example.cam_tube.app-jetified-exoplayer-core-2.18.7-17 /Users/lalitchoudhary/.gradle/caches/transforms-3/d6b3c95817e09d7b068ea55f8cfacf70/transformed/jetified-exoplayer-core-2.18.7/res
+com.example.cam_tube.app-jetified-activity-1.7.2-18 /Users/lalitchoudhary/.gradle/caches/transforms-3/f22a4558394fdf66c3f0cc9d6a0defd4/transformed/jetified-activity-1.7.2/res
+com.example.cam_tube.app-lifecycle-runtime-2.6.1-19 /Users/lalitchoudhary/.gradle/caches/transforms-3/f99742f5007e67e24e7d8b2dac5cb8f0/transformed/lifecycle-runtime-2.6.1/res
+com.example.cam_tube.app-main-20 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/android/app/src/main/res
+com.example.cam_tube.app-release-21 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/android/app/src/release/res
+com.example.cam_tube.app-google-services-22 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/app/generated/res/google-services/release
+com.example.cam_tube.app-pngs-23 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/app/generated/res/pngs/release
+com.example.cam_tube.app-resValues-24 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/app/generated/res/resValues/release
+com.example.cam_tube.app-rs-25 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/app/generated/res/rs/release
+com.example.cam_tube.app-mergeReleaseResources-26 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/app/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.example.cam_tube.app-mergeReleaseResources-27 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/app/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.example.cam_tube.app-merged_res-28 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/app/intermediates/merged_res/release
+com.example.cam_tube.app-packaged_res-29 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/camera_android/intermediates/packaged_res/release
+com.example.cam_tube.app-packaged_res-30 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/cloud_firestore/intermediates/packaged_res/release
+com.example.cam_tube.app-packaged_res-31 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/connectivity_plus/intermediates/packaged_res/release
+com.example.cam_tube.app-packaged_res-32 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/firebase_auth/intermediates/packaged_res/release
+com.example.cam_tube.app-packaged_res-33 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/firebase_core/intermediates/packaged_res/release
+com.example.cam_tube.app-packaged_res-34 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/firebase_storage/intermediates/packaged_res/release
+com.example.cam_tube.app-packaged_res-35 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/flutter_ffmpeg/intermediates/packaged_res/release
+com.example.cam_tube.app-packaged_res-36 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/flutter_plugin_android_lifecycle/intermediates/packaged_res/release
+com.example.cam_tube.app-packaged_res-37 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/geocoding_android/intermediates/packaged_res/release
+com.example.cam_tube.app-packaged_res-38 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/geolocator_android/intermediates/packaged_res/release
+com.example.cam_tube.app-packaged_res-39 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/image_picker_android/intermediates/packaged_res/release
+com.example.cam_tube.app-packaged_res-40 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/package_info_plus/intermediates/packaged_res/release
+com.example.cam_tube.app-packaged_res-41 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/path_provider_android/intermediates/packaged_res/release
+com.example.cam_tube.app-packaged_res-42 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/permission_handler_android/intermediates/packaged_res/release
+com.example.cam_tube.app-packaged_res-43 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/shared_preferences_android/intermediates/packaged_res/release
+com.example.cam_tube.app-packaged_res-44 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/sqflite/intermediates/packaged_res/release
+com.example.cam_tube.app-packaged_res-45 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/video_compress/intermediates/packaged_res/release
+com.example.cam_tube.app-packaged_res-46 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/video_player_android/intermediates/packaged_res/release
+com.example.cam_tube.app-packaged_res-47 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/video_thumbnail/intermediates/packaged_res/release
+com.example.cam_tube.app-packaged_res-48 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/wakelock_plus/intermediates/packaged_res/release

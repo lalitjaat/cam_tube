@@ -1,0 +1,12 @@
+com.arthenica.flutter.ffmpeg.flutter_ffmpeg-jetified-annotation-experimental-1.1.0-0 /Users/lalitchoudhary/.gradle/caches/transforms-3/236a2aa1ba9650ad3570ee4f6e092af9/transformed/jetified-annotation-experimental-1.1.0/res
+com.arthenica.flutter.ffmpeg.flutter_ffmpeg-jetified-window-1.0.0-beta04-1 /Users/lalitchoudhary/.gradle/caches/transforms-3/87e7a672c1adbb6e49cd403bec5e2efa/transformed/jetified-window-1.0.0-beta04/res
+com.arthenica.flutter.ffmpeg.flutter_ffmpeg-jetified-window-java-1.0.0-beta04-2 /Users/lalitchoudhary/.gradle/caches/transforms-3/cb672e83b2d5863a1d48ebe8bbfc24cd/transformed/jetified-window-java-1.0.0-beta04/res
+com.arthenica.flutter.ffmpeg.flutter_ffmpeg-core-1.6.0-3 /Users/lalitchoudhary/.gradle/caches/transforms-3/e345fba20c331dee75bcf998126c6358/transformed/core-1.6.0/res
+com.arthenica.flutter.ffmpeg.flutter_ffmpeg-main-4 /Users/lalitchoudhary/.pub-cache/hosted/pub.dev/flutter_ffmpeg-0.4.2/android/src/main/res
+com.arthenica.flutter.ffmpeg.flutter_ffmpeg-release-5 /Users/lalitchoudhary/.pub-cache/hosted/pub.dev/flutter_ffmpeg-0.4.2/android/src/release/res
+com.arthenica.flutter.ffmpeg.flutter_ffmpeg-pngs-6 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/flutter_ffmpeg/generated/res/pngs/release
+com.arthenica.flutter.ffmpeg.flutter_ffmpeg-resValues-7 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/flutter_ffmpeg/generated/res/resValues/release
+com.arthenica.flutter.ffmpeg.flutter_ffmpeg-rs-8 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/flutter_ffmpeg/generated/res/rs/release
+com.arthenica.flutter.ffmpeg.flutter_ffmpeg-mergeReleaseResources-9 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/flutter_ffmpeg/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.arthenica.flutter.ffmpeg.flutter_ffmpeg-mergeReleaseResources-10 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/flutter_ffmpeg/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.arthenica.flutter.ffmpeg.flutter_ffmpeg-merged_res-11 /Users/lalitchoudhary/Desktop/Flutter Projects/cam_tube/build/flutter_ffmpeg/intermediates/merged_res/release
